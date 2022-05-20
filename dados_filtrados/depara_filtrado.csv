@@ -1,0 +1,809 @@
+CO_MUN_IBGE_7,NO_MUN_MIN,SG_UF
+2103158,Centro do Guilherme,MA
+2103174,Centro Novo do Maranhão,MA
+2103208,Chapadinha,MA
+2103257,Cidelândia,MA
+2103307,Codó,MA
+2103406,Coelho Neto,MA
+2103505,Colinas,MA
+2103554,Conceição do Lago-Açu,MA
+2103604,Coroatá,MA
+2103703,Cururupu,MA
+2103752,Davinópolis,MA
+2103802,Dom Pedro,MA
+2103901,Duque Bacelar,MA
+2104008,Esperantinópolis,MA
+2104057,Estreito,MA
+2104073,Feira Nova do Maranhão,MA
+2104081,Fernando Falcão,MA
+2104099,Formosa da Serra Negra,MA
+2104107,Fortaleza dos Nogueiras,MA
+2104206,Fortuna,MA
+2104305,Godofredo Viana,MA
+2104404,Gonçalves Dias,MA
+2104503,Governador Archer,MA
+2104552,Governador Edison Lobão,MA
+2104602,Governador Eugênio Barros,MA
+2104628,Governador Luiz Rocha,MA
+2104651,Governador Newton Bello,MA
+2104677,Governador Nunes Freire,MA
+2104701,Graça Aranha,MA
+2104800,Grajaú,MA
+2104909,Guimarães,MA
+2105005,Humberto de Campos,MA
+2105104,Icatu,MA
+2105153,Igarapé do Meio,MA
+2105203,Igarapé Grande,MA
+2105302,Imperatriz,MA
+2105351,Itaipava do Grajaú,MA
+2105401,Itapecuru Mirim,MA
+2105427,Itinga do Maranhão,MA
+2105450,Jatobá,MA
+2105476,Jenipapo dos Vieiras,MA
+2105500,João Lisboa,MA
+2105609,Joselândia,MA
+2105658,Junco do Maranhão,MA
+2105708,Lago da Pedra,MA
+2105807,Lago do Junco,MA
+2105906,Lago Verde,MA
+2105922,Lagoa do Mato,MA
+2105948,Lago dos Rodrigues,MA
+2105963,Lagoa Grande do Maranhão,MA
+2105989,Lajeado Novo,MA
+2106003,Lima Campos,MA
+2106102,Loreto,MA
+2106201,Luís Domingues,MA
+2106300,Magalhães de Almeida,MA
+2106326,Maracaçumé,MA
+2106359,Marajá do Sena,MA
+2106375,Maranhãozinho,MA
+2106409,Mata Roma,MA
+2106508,Matinha,MA
+2106607,Matões,MA
+2106631,Matões do Norte,MA
+2106672,Milagres do Maranhão,MA
+2106706,Mirador,MA
+2106755,Miranda do Norte,MA
+2106805,Mirinzal,MA
+2106904,Monção,MA
+2107001,Montes Altos,MA
+2107100,Morros,MA
+2107209,Nina Rodrigues,MA
+2107258,Nova Colinas,MA
+2107308,Nova Iorque,MA
+2107357,Nova Olinda do Maranhão,MA
+2107407,Olho d'Água das Cunhãs,MA
+2107456,Olinda Nova do Maranhão,MA
+2107506,Paço do Lumiar,MA
+2107605,Palmeirândia,MA
+2107704,Paraibano,MA
+2107803,Parnarama,MA
+2107902,Passagem Franca,MA
+2108009,Pastos Bons,MA
+2108058,Paulino Neves,MA
+2108108,Paulo Ramos,MA
+2108207,Pedreiras,MA
+2108256,Pedro do Rosário,MA
+2108306,Penalva,MA
+2108405,Peri Mirim,MA
+2108454,Peritoró,MA
+2108504,Pindaré-Mirim,MA
+2108603,Pinheiro,MA
+1506807,Santarém,PA
+1506906,Santarém Novo,PA
+1507003,Santo Antônio do Tauá,PA
+1507102,São Caetano de Odivelas,PA
+1507151,São Domingos do Araguaia,PA
+1507201,São Domingos do Capim,PA
+1507300,São Félix do Xingu,PA
+1507409,São Francisco do Pará,PA
+1507458,São Geraldo do Araguaia,PA
+1507466,São João da Ponta,PA
+1507474,São João de Pirabas,PA
+1507508,São João do Araguaia,PA
+1507607,São Miguel do Guamá,PA
+1507706,São Sebastião da Boa Vista,PA
+1507755,Sapucaia,PA
+1507805,Senador José Porfírio,PA
+1507904,Soure,PA
+1507953,Tailândia,PA
+1507961,Terra Alta,PA
+1507979,Terra Santa,PA
+1508001,Tomé-Açu,PA
+1508035,Tracuateua,PA
+1508050,Trairão,PA
+1508084,Tucumã,PA
+1508100,Tucuruí,PA
+1508126,Ulianópolis,PA
+1508159,Uruará,PA
+1508209,Vigia,PA
+1508308,Viseu,PA
+1508357,Vitória do Xingu,PA
+1508407,Xinguara,PA
+1600055,Serra do Navio,AP
+1600105,Amapá,AP
+1600154,Pedra Branca do Amapari,AP
+1600204,Calçoene,AP
+1600212,Cutias,AP
+1600238,Ferreira Gomes,AP
+1600253,Itaubal,AP
+1600279,Laranjal do Jari,AP
+1600303,Macapá,AP
+1600402,Mazagão,AP
+1600501,Oiapoque,AP
+1600535,Porto Grande,AP
+1600550,Pracuúba,AP
+1600600,Santana,AP
+1600709,Tartarugalzinho,AP
+1600808,Vitória do Jari,AP
+1700251,Abreulândia,TO
+1700301,Aguiarnópolis,TO
+1700350,Aliança do Tocantins,TO
+1700400,Almas,TO
+1700707,Alvorada,TO
+1701002,Ananás,TO
+1701051,Angico,TO
+1701101,Aparecida do Rio Negro,TO
+1701309,Aragominas,TO
+1701903,Araguacema,TO
+1702000,Araguaçu,TO
+1702109,Araguaína,TO
+1702158,Araguanã,TO
+1702208,Araguatins,TO
+1702307,Arapoema,TO
+1702406,Arraias,TO
+1702554,Augustinópolis,TO
+1702703,Aurora do Tocantins,TO
+1702901,Axixá do Tocantins,TO
+1703008,Babaçulândia,TO
+1703057,Bandeirantes do Tocantins,TO
+1703073,Barra do Ouro,TO
+1703107,Barrolândia,TO
+1703206,Bernardo Sayão,TO
+1703305,Bom Jesus do Tocantins,TO
+1703602,Brasilândia do Tocantins,TO
+1703701,Brejinho de Nazaré,TO
+1703800,Buriti do Tocantins,TO
+1703826,Cachoeirinha,TO
+1703842,Campos Lindos,TO
+1703867,Cariri do Tocantins,TO
+1703883,Carmolândia,TO
+1703891,Carrasco Bonito,TO
+1703909,Caseara,TO
+1704105,Centenário,TO
+1704600,Chapada de Areia,TO
+1705102,Chapada da Natividade,TO
+1705508,Colinas do Tocantins,TO
+1705557,Combinado,TO
+1705607,Conceição do Tocantins,TO
+1706001,Couto de Magalhães,TO
+1706100,Cristalândia,TO
+1706258,Crixás do Tocantins,TO
+1706506,Darcinópolis,TO
+1707009,Dianópolis,TO
+1707108,Divinópolis do Tocantins,TO
+1707207,Dois Irmãos do Tocantins,TO
+1707306,Dueré,TO
+1707405,Esperantina,TO
+1707553,Fátima,TO
+1707652,Figueirópolis,TO
+1707702,Filadélfia,TO
+1708205,Formoso do Araguaia,TO
+1708254,Fortaleza do Tabocão,TO
+1708304,Goianorte,TO
+1709005,Goiatins,TO
+1709302,Guaraí,TO
+1709500,Gurupi,TO
+1709807,Ipueiras,TO
+1710508,Itacajá,TO
+1710706,Itaguatins,TO
+1710904,Itapiratins,TO
+1711100,Itaporã do Tocantins,TO
+1711506,Jaú do Tocantins,TO
+1711803,Juarina,TO
+1711902,Lagoa da Confusão,TO
+1711951,Lagoa do Tocantins,TO
+1712009,Lajeado,TO
+1712157,Lavandeira,TO
+1712405,Lizarda,TO
+1712454,Luzinópolis,TO
+1712504,Marianópolis do Tocantins,TO
+1712702,Mateiros,TO
+1712801,Maurilândia do Tocantins,TO
+1713205,Miracema do Tocantins,TO
+1713304,Miranorte,TO
+1713601,Monte do Carmo,TO
+1713700,Monte Santo do Tocantins,TO
+1713809,Palmeiras do Tocantins,TO
+1713957,Muricilândia,TO
+1714203,Natividade,TO
+1714302,Nazaré,TO
+1714880,Nova Olinda,TO
+1715002,Nova Rosalândia,TO
+1715101,Novo Acordo,TO
+1715150,Novo Alegre,TO
+1715259,Novo Jardim,TO
+1715507,Oliveira de Fátima,TO
+1715705,Palmeirante,TO
+1715754,Palmeirópolis,TO
+1716109,Paraíso do Tocantins,TO
+1716208,Paranã,TO
+1716307,Pau D'Arco,TO
+1716505,Pedro Afonso,TO
+1716604,Peixe,TO
+1716653,Pequizeiro,TO
+1716703,Colméia,TO
+1717008,Pindorama do Tocantins,TO
+1717206,Piraquê,TO
+1717503,Pium,TO
+1717800,Ponte Alta do Bom Jesus,TO
+1717909,Ponte Alta do Tocantins,TO
+1718006,Porto Alegre do Tocantins,TO
+1718204,Porto Nacional,TO
+1718303,Praia Norte,TO
+1718402,Presidente Kennedy,TO
+1718451,Pugmil,TO
+1718501,Recursolândia,TO
+1718550,Riachinho,TO
+1718659,Rio da Conceição,TO
+1718709,Rio dos Bois,TO
+1718758,Rio Sono,TO
+1718808,Sampaio,TO
+1718840,Sandolândia,TO
+1718865,Santa Fé do Araguaia,TO
+1718881,Santa Maria do Tocantins,TO
+1719004,Santa Tereza do Tocantins,TO
+1720002,Santa Terezinha do Tocantins,TO
+1720101,São Bento do Tocantins,TO
+1720150,São Félix do Tocantins,TO
+1720200,São Miguel do Tocantins,TO
+1720259,São Salvador do Tocantins,TO
+1720309,São Sebastião do Tocantins,TO
+1720499,São Valério da Natividade,TO
+1720655,Silvanópolis,TO
+1720804,Sítio Novo do Tocantins,TO
+1720853,Sucupira,TO
+1720903,Taguatinga,TO
+1720937,Taipas do Tocantins,TO
+1720978,Talismã,TO
+1721000,Palmas,TO
+1721109,Tocantínia,TO
+1721208,Tocantinópolis,TO
+1721257,Tupirama,TO
+1721307,Tupiratins,TO
+1722081,Wanderlândia,TO
+1722107,Xambioá,TO
+2100055,Açailândia,MA
+2100105,Afonso Cunha,MA
+2100154,Água Doce do Maranhão,MA
+2100204,Alcântara,MA
+2100303,Aldeias Altas,MA
+2100402,Altamira do Maranhão,MA
+2100436,Alto Alegre do Maranhão,MA
+2100477,Alto Alegre do Pindaré,MA
+2100501,Alto Parnaíba,MA
+2100550,Amapá do Maranhão,MA
+2100600,Amarante do Maranhão,MA
+2100709,Anajatuba,MA
+2100808,Anapurus,MA
+2100832,Apicum-Açu,MA
+2100873,Araguanã,MA
+2100907,Araioses,MA
+2100956,Arame,MA
+2101004,Arari,MA
+2101103,Axixá,MA
+2101202,Bacabal,MA
+2101251,Bacabeira,MA
+2101301,Bacuri,MA
+2101350,Bacurituba,MA
+2101400,Balsas,MA
+2101509,Barão de Grajaú,MA
+2101608,Barra do Corda,MA
+2101707,Barreirinhas,MA
+2101731,Belágua,MA
+2101772,Bela Vista do Maranhão,MA
+2101806,Benedito Leite,MA
+2101905,Bequimão,MA
+2101939,Bernardo do Mearim,MA
+2101970,Boa Vista do Gurupi,MA
+2102002,Bom Jardim,MA
+2102036,Bom Jesus das Selvas,MA
+2102077,Bom Lugar,MA
+2102101,Brejo,MA
+2102150,Brejo de Areia,MA
+2102200,Buriti,MA
+2102309,Buriti Bravo,MA
+2102325,Buriticupu,MA
+2102358,Buritirana,MA
+2102374,Cachoeira Grande,MA
+2102408,Cajapió,MA
+2102507,Cajari,MA
+2102556,Campestre do Maranhão,MA
+2102606,Cândido Mendes,MA
+2102705,Cantanhede,MA
+2102754,Capinzal do Norte,MA
+2102804,Carolina,MA
+2102903,Carutapera,MA
+2103000,Caxias,MA
+2103109,Cedral,MA
+2103125,Central do Maranhão,MA
+1501758,Brejo Grande do Araguaia,PA
+1501782,Breu Branco,PA
+1501808,Breves,PA
+1501907,Bujaru,PA
+1501956,Cachoeira do Piriá,PA
+1502004,Cachoeira do Arari,PA
+1502103,Cametá,PA
+1502152,Canaã dos Carajás,PA
+1502202,Capanema,PA
+1502301,Capitão Poço,PA
+1502400,Castanhal,PA
+1502509,Chaves,PA
+1502608,Colares,PA
+1502707,Conceição do Araguaia,PA
+1502756,Concórdia do Pará,PA
+1502764,Cumaru do Norte,PA
+1502772,Curionópolis,PA
+1502806,Curralinho,PA
+1502855,Curuá,PA
+1502905,Curuçá,PA
+1502939,Dom Eliseu,PA
+1502954,Eldorado dos Carajás,PA
+1503002,Faro,PA
+1503044,Floresta do Araguaia,PA
+1503077,Garrafão do Norte,PA
+1503093,Goianésia do Pará,PA
+1503101,Gurupá,PA
+1503200,Igarapé-Açu,PA
+1503309,Igarapé-Miri,PA
+1503408,Inhangapi,PA
+1503457,Ipixuna do Pará,PA
+1503507,Irituia,PA
+1503606,Itaituba,PA
+1503705,Itupiranga,PA
+1503754,Jacareacanga,PA
+1503804,Jacundá,PA
+1503903,Juruti,PA
+1504000,Limoeiro do Ajuru,PA
+1504059,Mãe do Rio,PA
+1504109,Magalhães Barata,PA
+1504208,Marabá,PA
+1504307,Maracanã,PA
+1504406,Marapanim,PA
+1504422,Marituba,PA
+1504455,Medicilândia,PA
+1504505,Melgaço,PA
+1504604,Mocajuba,PA
+1504703,Moju,PA
+1504802,Monte Alegre,PA
+1504901,Muaná,PA
+1504950,Nova Esperança do Piriá,PA
+1504976,Nova Ipixuna,PA
+1505007,Nova Timboteua,PA
+1505031,Novo Progresso,PA
+1505064,Novo Repartimento,PA
+1505106,Óbidos,PA
+1505205,Oeiras do Pará,PA
+1505304,Oriximiná,PA
+1505403,Ourém,PA
+1505437,Ourilândia do Norte,PA
+1505486,Pacajá,PA
+1505494,Palestina do Pará,PA
+1505502,Paragominas,PA
+1505536,Parauapebas,PA
+1505551,Pau D'Arco,PA
+1505601,Peixe-Boi,PA
+1505635,Piçarra,PA
+1505650,Placas,PA
+1505700,Ponta de Pedras,PA
+1505809,Portel,PA
+1505908,Porto de Moz,PA
+1506005,Prainha,PA
+1506104,Primavera,PA
+1506112,Quatipuru,PA
+1506138,Redenção,PA
+1506161,Rio Maria,PA
+1506187,Rondon do Pará,PA
+1506195,Rurópolis,PA
+1506203,Salinópolis,PA
+1506302,Salvaterra,PA
+1506351,Santa Bárbara do Pará,PA
+1506401,Santa Cruz do Arari,PA
+1506500,Santa Isabel do Pará,PA
+1506559,Santa Luzia do Pará,PA
+1506583,Santa Maria das Barreiras,PA
+1506609,Santa Maria do Pará,PA
+1506708,Santana do Araguaia,PA
+2108702,Pio XII,MA
+2108801,Pirapemas,MA
+2108900,Poção de Pedras,MA
+2109007,Porto Franco,MA
+2109056,Porto Rico do Maranhão,MA
+2109106,Presidente Dutra,MA
+2109205,Presidente Juscelino,MA
+2109239,Presidente Médici,MA
+2109270,Presidente Sarney,MA
+2109304,Presidente Vargas,MA
+2109403,Primeira Cruz,MA
+2109452,Raposa,MA
+2109502,Riachão,MA
+2109551,Ribamar Fiquene,MA
+2109601,Rosário,MA
+2109700,Sambaíba,MA
+2109759,Santa Filomena do Maranhão,MA
+2109809,Santa Helena,MA
+2109908,Santa Inês,MA
+2110005,Santa Luzia,MA
+2110039,Santa Luzia do Paruá,MA
+2110104,Santa Quitéria do Maranhão,MA
+2110203,Santa Rita,MA
+2110237,Santana do Maranhão,MA
+2110278,Santo Amaro do Maranhão,MA
+2110302,Santo Antônio dos Lopes,MA
+2110401,São Benedito do Rio Preto,MA
+2110500,São Bento,MA
+2110609,São Bernardo,MA
+2110658,São Domingos do Azeitão,MA
+2110708,São Domingos do Maranhão,MA
+2110807,São Félix de Balsas,MA
+2110856,São Francisco do Brejão,MA
+2110906,São Francisco do Maranhão,MA
+2111003,São João Batista,MA
+2111029,São João do Carú,MA
+2111052,São João do Paraíso,MA
+2111078,São João do Soter,MA
+2111102,São João dos Patos,MA
+2111201,São José de Ribamar,MA
+2111250,São José dos Basílios,MA
+2111300,São Luís,MA
+2111409,São Luís Gonzaga do Maranhão,MA
+2111508,São Mateus do Maranhão,MA
+2111532,São Pedro da Água Branca,MA
+2111573,São Pedro dos Crentes,MA
+2111607,São Raimundo das Mangabeiras,MA
+2111631,São Raimundo do Doca Bezerra,MA
+2111672,São Roberto,MA
+2111706,São Vicente Ferrer,MA
+2111722,Satubinha,MA
+2111748,Senador Alexandre Costa,MA
+2111763,Senador La Rocque,MA
+2111789,Serrano do Maranhão,MA
+2111805,Sítio Novo,MA
+2111904,Sucupira do Norte,MA
+2111953,Sucupira do Riachão,MA
+2112001,Tasso Fragoso,MA
+2112100,Timbiras,MA
+2112209,Timon,MA
+2112233,Trizidela do Vale,MA
+2112274,Tufilândia,MA
+2112308,Tuntum,MA
+2112407,Turiaçu,MA
+2112456,Turilândia,MA
+2112506,Tutóia,MA
+2112605,Urbano Santos,MA
+2112704,Vargem Grande,MA
+2112803,Viana,MA
+2112852,Vila Nova dos Martírios,MA
+2112902,Vitória do Mearim,MA
+2113009,Vitorino Freire,MA
+2114007,Zé Doca,MA
+1718899,Santa Rita do Tocantins,TO
+1718907,Santa Rosa do Tocantins,TO
+1100015,Alta Floresta D'Oeste,RO
+1100023,Ariquemes,RO
+1100031,Cabixi,RO
+1100049,Cacoal,RO
+1100056,Cerejeiras,RO
+1100064,Colorado do Oeste,RO
+1100072,Corumbiara,RO
+1100080,Costa Marques,RO
+1100098,Espigão D'Oeste,RO
+1100106,Guajará-Mirim,RO
+1100114,Jaru,RO
+1100122,Ji-Paraná,RO
+1100130,Machadinho D'Oeste,RO
+1100148,Nova Brasilândia D'Oeste,RO
+1100155,Ouro Preto do Oeste,RO
+1100189,Pimenta Bueno,RO
+1100205,Porto Velho,RO
+1100254,Presidente Médici,RO
+1100262,Rio Crespo,RO
+1100288,Rolim de Moura,RO
+1100296,Santa Luzia D'Oeste,RO
+1100304,Vilhena,RO
+1100320,São Miguel do Guaporé,RO
+1100338,Nova Mamoré,RO
+1100346,Alvorada D'Oeste,RO
+1100379,Alto Alegre dos Parecis,RO
+1100403,Alto Paraíso,RO
+1100452,Buritis,RO
+1100502,Novo Horizonte do Oeste,RO
+1100601,Cacaulândia,RO
+1100700,Campo Novo de Rondônia,RO
+1100809,Candeias do Jamari,RO
+1100908,Castanheiras,RO
+1100924,Chupinguaia,RO
+1100940,Cujubim,RO
+1101005,Governador Jorge Teixeira,RO
+1101104,Itapuã do Oeste,RO
+1101203,Ministro Andreazza,RO
+1101302,Mirante da Serra,RO
+1101401,Monte Negro,RO
+1101435,Nova União,RO
+1101450,Parecis,RO
+1101468,Pimenteiras do Oeste,RO
+1101476,Primavera de Rondônia,RO
+1101484,São Felipe D'Oeste,RO
+1101492,São Francisco do Guaporé,RO
+1101500,Seringueiras,RO
+1101559,Teixeirópolis,RO
+1101609,Theobroma,RO
+1101708,Urupá,RO
+1101757,Vale do Anari,RO
+1101807,Vale do Paraíso,RO
+1200013,Acrelândia,AC
+1200054,Assis Brasil,AC
+1200104,Brasiléia,AC
+1200138,Bujari,AC
+1200179,Capixaba,AC
+1200203,Cruzeiro do Sul,AC
+1200252,Epitaciolândia,AC
+1200302,Feijó,AC
+1200328,Jordão,AC
+1200336,Mâncio Lima,AC
+1200344,Manoel Urbano,AC
+1200351,Marechal Thaumaturgo,AC
+1200385,Plácido de Castro,AC
+1200393,Porto Walter,AC
+1200401,Rio Branco,AC
+1200427,Rodrigues Alves,AC
+1200435,Santa Rosa do Purus,AC
+1200450,Senador Guiomard,AC
+1200500,Sena Madureira,AC
+1200609,Tarauacá,AC
+1200708,Xapuri,AC
+1200807,Porto Acre,AC
+1300029,Alvarães,AM
+1300060,Amaturá,AM
+1300086,Anamã,AM
+1300102,Anori,AM
+1300144,Apuí,AM
+1300201,Atalaia do Norte,AM
+1300300,Autazes,AM
+1300409,Barcelos,AM
+1300508,Barreirinha,AM
+1300607,Benjamin Constant,AM
+1300631,Beruri,AM
+1300680,Boa Vista do Ramos,AM
+1300706,Boca do Acre,AM
+1300805,Borba,AM
+1300839,Caapiranga,AM
+1300904,Canutama,AM
+1301001,Carauari,AM
+1301100,Careiro,AM
+1301159,Careiro da Várzea,AM
+1301209,Coari,AM
+1301308,Codajás,AM
+1301407,Eirunepé,AM
+1301506,Envira,AM
+1301605,Fonte Boa,AM
+1301654,Guajará,AM
+1301704,Humaitá,AM
+1301803,Ipixuna,AM
+1301852,Iranduba,AM
+1301902,Itacoatiara,AM
+1301951,Itamarati,AM
+1302009,Itapiranga,AM
+1302108,Japurá,AM
+1302207,Juruá,AM
+1302306,Jutaí,AM
+1302405,Lábrea,AM
+1302504,Manacapuru,AM
+1302553,Manaquiri,AM
+1302603,Manaus,AM
+1302702,Manicoré,AM
+1302801,Maraã,AM
+1302900,Maués,AM
+1303007,Nhamundá,AM
+1303106,Nova Olinda do Norte,AM
+1303205,Novo Airão,AM
+1303304,Novo Aripuanã,AM
+1303403,Parintins,AM
+1303502,Pauini,AM
+1303536,Presidente Figueiredo,AM
+1303569,Rio Preto da Eva,AM
+1303601,Santa Isabel do Rio Negro,AM
+1303700,Santo Antônio do Içá,AM
+1303809,São Gabriel da Cachoeira,AM
+1303908,São Paulo de Olivença,AM
+1303957,São Sebastião do Uatumã,AM
+1304005,Silves,AM
+1304062,Tabatinga,AM
+1304104,Tapauá,AM
+1304203,Tefé,AM
+1304237,Tonantins,AM
+1304260,Uarini,AM
+1304302,Urucará,AM
+1304401,Urucurituba,AM
+1400027,Amajari,RR
+1400050,Alto Alegre,RR
+1400100,Boa Vista,RR
+1400159,Bonfim,RR
+1400175,Cantá,RR
+1400209,Caracaraí,RR
+1400233,Caroebe,RR
+1400282,Iracema,RR
+1400308,Mucajaí,RR
+1400407,Normandia,RR
+1400456,Pacaraima,RR
+1400472,Rorainópolis,RR
+1400506,São João da Baliza,RR
+1400605,São Luiz,RR
+1400704,Uiramutã,RR
+1500107,Abaetetuba,PA
+1500131,Abel Figueiredo,PA
+1500206,Acará,PA
+1500305,Afuá,PA
+1500347,Água Azul do Norte,PA
+1500404,Alenquer,PA
+1500503,Almeirim,PA
+1500602,Altamira,PA
+1500701,Anajás,PA
+1500800,Ananindeua,PA
+1500859,Anapu,PA
+1500909,Augusto Corrêa,PA
+1500958,Aurora do Pará,PA
+1501006,Aveiro,PA
+1501105,Bagre,PA
+1501204,Baião,PA
+1501253,Bannach,PA
+1501303,Barcarena,PA
+1501402,Belém,PA
+1501451,Belterra,PA
+1501501,Benevides,PA
+1501576,Bom Jesus do Tocantins,PA
+1501600,Bonito,PA
+1501709,Bragança,PA
+1501725,Brasil Novo,PA
+5104542,Itanhangá,MT
+5100201,Água Boa,MT
+5100250,Alta Floresta,MT
+5100300,Alto Araguaia,MT
+5100359,Alto Boa Vista,MT
+5100409,Alto Garças,MT
+5100508,Alto Paraguai,MT
+5100607,Alto Taquari,MT
+5100805,Apiacás,MT
+5101001,Araguaiana,MT
+5101209,Araguainha,MT
+5101258,Araputanga,MT
+5101308,Arenápolis,MT
+5101407,Aripuanã,MT
+5101605,Barão de Melgaço,MT
+5101704,Barra do Bugres,MT
+5101803,Barra do Garças,MT
+5101852,Bom Jesus do Araguaia,MT
+5101902,Brasnorte,MT
+5102504,Cáceres,MT
+5102603,Campinápolis,MT
+5102637,Campo Novo do Parecis,MT
+5102678,Campo Verde,MT
+5102686,Campos de Júlio,MT
+5102694,Canabrava do Norte,MT
+5102702,Canarana,MT
+5102793,Carlinda,MT
+5102850,Castanheira,MT
+5103007,Chapada dos Guimarães,MT
+5103056,Cláudia,MT
+5103106,Cocalinho,MT
+5103205,Colíder,MT
+5103254,Colniza,MT
+5103304,Comodoro,MT
+5103353,Confresa,MT
+5103361,Conquista D'Oeste,MT
+5103379,Cotriguaçu,MT
+5103403,Cuiabá,MT
+5103437,Curvelândia,MT
+5103452,Denise,MT
+5103502,Diamantino,MT
+5103601,Dom Aquino,MT
+5103700,Feliz Natal,MT
+5103809,Figueirópolis D'Oeste,MT
+5103858,Gaúcha do Norte,MT
+5103908,General Carneiro,MT
+5103957,Glória D'Oeste,MT
+5104104,Guarantã do Norte,MT
+5104203,Guiratinga,MT
+5104500,Indiavaí,MT
+5104559,Itaúba,MT
+5104609,Itiquira,MT
+5104807,Jaciara,MT
+5104906,Jangada,MT
+5105002,Jauru,MT
+5105101,Juara,MT
+5105150,Juína,MT
+5105176,Juruena,MT
+5105200,Juscimeira,MT
+5105234,Lambari D'Oeste,MT
+5105259,Lucas do Rio Verde,MT
+5105309,Luciára,MT
+5105507,Vila Bela da Santíssima Trindade,MT
+5105580,Marcelândia,MT
+5105606,Matupá,MT
+5105622,Mirassol d'Oeste,MT
+5105903,Nobres,MT
+5106000,Nortelândia,MT
+5106109,Nossa Senhora do Livramento,MT
+5106158,Nova Bandeirantes,MT
+5106174,Nova Nazaré,MT
+5106182,Nova Lacerda,MT
+5106190,Nova Santa Helena,MT
+5106208,Nova Brasilândia,MT
+5106216,Nova Canaã do Norte,MT
+5106224,Nova Mutum,MT
+5106232,Nova Olímpia,MT
+5106240,Nova Ubiratã,MT
+5100102,Acorizal,MT
+1504752,Mojuí dos Campos,PA
+5104526,Ipiranga do Norte,MT
+5106257,Nova Xavantina,MT
+5106265,Novo Mundo,MT
+5106273,Novo Horizonte do Norte,MT
+5106281,Novo São Joaquim,MT
+5106299,Paranaíta,MT
+5106307,Paranatinga,MT
+5106315,Novo Santo Antônio,MT
+5106372,Pedra Preta,MT
+5106422,Peixoto de Azevedo,MT
+5106455,Planalto da Serra,MT
+5106505,Poconé,MT
+5106653,Pontal do Araguaia,MT
+5106703,Ponte Branca,MT
+5106752,Pontes e Lacerda,MT
+5106778,Porto Alegre do Norte,MT
+5106802,Porto dos Gaúchos,MT
+5106828,Porto Esperidião,MT
+5106851,Porto Estrela,MT
+5107008,Poxoréo,MT
+5107040,Primavera do Leste,MT
+5107065,Querência,MT
+5107107,São José dos Quatro Marcos,MT
+5107156,Reserva do Cabaçal,MT
+5107180,Ribeirão Cascalheira,MT
+5107198,Ribeirãozinho,MT
+5107206,Rio Branco,MT
+5107248,Santa Carmem,MT
+5107263,Santo Afonso,MT
+5107297,São José do Povo,MT
+5107305,São José do Rio Claro,MT
+5107354,São José do Xingu,MT
+5107404,São Pedro da Cipa,MT
+5107578,Rondolândia,MT
+5107602,Rondonópolis,MT
+5107701,Rosário Oeste,MT
+5107743,Santa Cruz do Xingu,MT
+5107750,Salto do Céu,MT
+5107768,Santa Rita do Trivelato,MT
+5107776,Santa Terezinha,MT
+5107792,Santo Antônio do Leste,MT
+5107800,Santo Antônio do Leverger,MT
+5107859,São Félix do Araguaia,MT
+5107875,Sapezal,MT
+5107883,Serra Nova Dourada,MT
+5107909,Sinop,MT
+5107925,Sorriso,MT
+5107941,Tabaporã,MT
+5107958,Tangará da Serra,MT
+5108006,Tapurah,MT
+5108055,Terra Nova do Norte,MT
+5108105,Tesouro,MT
+5108204,Torixoréu,MT
+5108303,União do Sul,MT
+5108352,Vale de São Domingos,MT
+5108402,Várzea Grande,MT
+5108501,Vera,MT
+5108600,Vila Rica,MT
+5108808,Nova Guarita,MT
+5108857,Nova Marilândia,MT
+5108907,Nova Maringá,MT
+5108956,Nova Monte Verde,MT
