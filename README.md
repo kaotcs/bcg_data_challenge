@@ -23,14 +23,14 @@ Based on available public data, generate recommendations with a focus on non-tri
 
 In order to search for insights regarding the sustainable economic development of municipalities in Legal Amazon, we split it into five main topics (each of them in a separate project branch): [in plain portuguese]
 
-- Quais regiões tem maior retorno social e econômico ao recuperar ou reflorestar áreas desmatadas? -> branch ***gustavo_cunha***
+- Quais regiões deveriam ser as prioritárias para restauração florestal? -> branch [***grosmanph***](https://github.com/kaotcs/bcg_data_challenge/tree/grosmanph)
 
-- Quais regiões deveriam ser as prioritárias para restauração florestal? -> branch ***grosmanph***
+- Quais regiões tem maior retorno social e econômico ao recuperar ou reflorestar áreas desmatadas? -> branch [***gustavo_cunha***](https://github.com/kaotcs/bcg_data_challenge/tree/gustavo_cunha)
 
-- Como incluir social e economicamente a população, em especial grupos vulneráveis, e quais atividades são mais efetivos? -> branch ***ricardo_kato***
+- Qual o panorama atual de exportação dos Municípios da Amazônia? -> branch [***hugova***](https://github.com/kaotcs/bcg_data_challenge/tree/hugova)
 
-- Quais políticas mais contribuem para o desenvolvimento social da região? -> branch ***ricardo_kato***
+- Como incluir social e economicamente a população, em especial grupos vulneráveis, e quais atividades são mais efetivos? -> branch [***ricardo_kato***](https://github.com/kaotcs/bcg_data_challenge/tree/ricardo_kato)
 
-- Qual o panorama atual de exportação dos Municípios da Amazônia? -> branch ***hugova***
+- Quais políticas mais contribuem para o desenvolvimento social da região? -> branch [***ricardo_kato***](https://github.com/kaotcs/bcg_data_challenge/tree/ricardo_kato)  
 
 To access each topic analysis, please check out the respective branch.
