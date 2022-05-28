@@ -18,9 +18,6 @@ Arapyaú wants to promote the sustainable economic development of municipalities
 
 Based on available public data, generate recommendations with a focus on non-trivial insights and actionable recommendations to support the sustainable economic development of municipalities in the Legal Amazon.
 
-References:
-https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira
-
 # **BUSINESS ASSUMPTIONS FOR THIS CYCLE**
 
 - If there was no data about fire warnings in some cities, it means that there was no forest fire in that city.
