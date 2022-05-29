@@ -27,7 +27,7 @@ In order to search for insights regarding the sustainable economic development o
 
 - Quais regiões tem maior retorno social e econômico ao recuperar ou reflorestar áreas desmatadas? -> branch [***gustavo_cunha***](https://github.com/kaotcs/bcg_data_challenge/tree/gustavo_cunha)
 
-- Qual o panorama atual de exportação dos Municípios da Amazônia? -> branch [***hugova***](https://github.com/kaotcs/bcg_data_challenge/tree/hugova)
+- Quais são os principais fatores ambientais e sociais que promovem ou impedem o desenvolvimento sustentável da Amazônia Legal? Modelos de seleção de features e modelo Random Forest -> branch [***hugova***](https://github.com/kaotcs/bcg_data_challenge/tree/hugova)
 
 - Como incluir social e economicamente a população, em especial grupos vulneráveis, e quais atividades são mais efetivos? -> branch [***ricardo_kato***](https://github.com/kaotcs/bcg_data_challenge/tree/ricardo_kato)
 
